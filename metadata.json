@@ -1,0 +1,6 @@
+{
+  "name": "IF LAB - Laboratorio de Condicionales & Panel Docente",
+  "description": "Plataforma educativa interactiva para el aprendizaje de condicionales en inglés con evaluaciones, notificaciones por correo a profeluisingles@gmail.com y panel de control de estadísticas para el docente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
